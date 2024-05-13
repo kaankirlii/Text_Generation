@@ -1,6 +1,6 @@
 # Text_Generation
 
-Certainly! Here are the GitHub README.md files for both the original and optimized versions of the GPT code:
+Python script leveraging GPT-2 for text generation tasks, optimized for modularity, error handling, and user customization. Enhance your text generation projects with ease
 
 ### Original Version README.md
 
